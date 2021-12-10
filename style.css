@@ -34,10 +34,12 @@ h1 {
 .post { 
     padding: 16px;
     background-color: white;
+    
 }
 
 .post__header {
     margin-bottom: 16px;
+    
 }
 
 .post-meta {
